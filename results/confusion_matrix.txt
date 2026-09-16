@@ -1,0 +1,6 @@
+Confusion Matrix
+Rows = Actual, Columns = Predicted
+
+             Predicted Cat   Predicted Dog
+Actual Cat        1841             34
+Actual Dog          23           1852

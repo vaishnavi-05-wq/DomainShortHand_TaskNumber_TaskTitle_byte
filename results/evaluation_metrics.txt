@@ -1,0 +1,26 @@
+AVIP TASK 1 - CATS VS DOGS
+MODEL EVALUATION RESULTS
+==================================================
+
+Test images : 3750
+Test Cats   : 1875
+Test Dogs   : 1875
+
+Accuracy  : 0.9848
+Precision : 0.9820
+Recall    : 0.9877
+F1-score  : 0.9848
+
+Confusion Matrix:
+[[1841   34]
+ [  23 1852]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         Cat       0.99      0.98      0.98      1875
+         Dog       0.98      0.99      0.98      1875
+
+    accuracy                           0.98      3750
+   macro avg       0.98      0.98      0.98      3750
+weighted avg       0.98      0.98      0.98      3750
