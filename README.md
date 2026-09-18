@@ -14,8 +14,7 @@ The trained Cats vs Dogs image classifier is deployed as a web application using
 Users can upload a cat or dog image and receive the predicted class along with the prediction confidence.
 
 **Live Application:**
-
-https://vaishnavi-05-wq-domainshorthand-tasknumber-tasktitle-app-hb83ob.streamlit.app/
+https://domainshorthandtasknumbertasktitlebyte-k2vqtwcf4takqfrhsk5ujp.streamlit.app/
 #Dataset
 
 The Cats vs Dogs dataset was obtained from the Microsoft Cats and Dogs dataset source.
