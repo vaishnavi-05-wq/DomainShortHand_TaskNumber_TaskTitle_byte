@@ -1,14 +1,22 @@
-Cats vs Dogs Image Classification
+#Cats vs Dogs Image Classification
 
-Project Overview
+##Project Overview
 
 This project implements a binary image classification system to distinguish between cats and dogs.
 
 The project was completed as part of the Arithmatrix Virtual Internship Program (AVIP) 2026 under the AI/ML Engineering Basic domain.
 
 A transfer learning approach using MobileNetV2 pretrained on ImageNet was used to build the classifier.
+## 🚀 Live Demo
 
-Dataset
+The trained Cats vs Dogs image classifier is deployed as a web application using Streamlit.
+
+Users can upload a cat or dog image and receive the predicted class along with the prediction confidence.
+
+**Live Application:**
+
+https://vaishnavi-05-wq-domainshorthand-tasknumber-tasktitle-app-hb83ob.streamlit.app/
+#Dataset
 
 The Cats vs Dogs dataset was obtained from the Microsoft Cats and Dogs dataset source.
 
@@ -304,8 +312,7 @@ Experiment with other pretrained architectures such as EfficientNet or ResNet.
 
 Optimize the trained model for faster inference and deployment on resource-constrained devices.
 
-Develop a simple web or mobile interface where users can upload an image and receive a predicted label.
-
+Improve the deployed web application with additional input validation and more robust handling of images outside the Cat and Dog classes.
 Monitor model performance on real-world images and retrain the model when necessary.
 
 Conclusion
